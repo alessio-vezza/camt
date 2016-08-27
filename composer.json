@@ -1,6 +1,7 @@
 {
   "name" : "alessio-vezza/camt",
   "description": "Library to read CAMT files (XML containing bank statements). Currently only CAMT.053 is supported.",
+  "type": "library",
   "require" : {
     "php" : ">=5.5",
     "jschaedl/iban": "~1.1.0",
